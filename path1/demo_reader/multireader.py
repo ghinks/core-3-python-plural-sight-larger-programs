@@ -1,5 +1,5 @@
 import os
-from demo_reader.compressed import bzipped, gzipped
+from path2.demo_reader.compressed import bzipped, gzipped
 
 extension_map = {
     '.bz2': bzipped.opener,

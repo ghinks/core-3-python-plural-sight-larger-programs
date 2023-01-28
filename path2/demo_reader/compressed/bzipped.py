@@ -1,6 +1,6 @@
 import bz2
 #from demo_reader.util import writer
-from .. import util as fuzzyboy
+from path1.demo_reader import util as fuzzyboy
 
 opener = bz2.open
 

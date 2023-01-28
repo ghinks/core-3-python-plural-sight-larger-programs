@@ -1,6 +1,6 @@
 import gzip
 
-from demo_reader.util import writer
+from path1.demo_reader.util import writer
 
 opener = gzip.open
 
